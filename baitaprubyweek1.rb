@@ -1,4 +1,7 @@
-
+=begin
+Name: Nguyen Sy Thanh
+SID:  20112186
+=end
 puts "Bai tap tim so hoan hao"
 s = 1
 while s<=10000 //gioi han trong khoang 10000
